@@ -1,3 +1,19 @@
+/***
+ * Grading Comments:
+ *  Good effort.   You kinda missed a bit of the 
+ *  point in getting rid of duplication by writing
+ *  methods for duplicate code.   Your organization 
+ *  is nice.  
+ *  Compiles/Runs:  15/15
+ *  Desired Output: 5/6 - there's a typo 'shee'll die'.
+ *  Consistency:  1/2  Your tab spacing isn't good with 
+ *    the closing brackets.   It's important to match them
+ *    up to make the code readable.
+ *  Efficiency:  0/2  Look into nesting methods, (putting
+ *    one inside another)  and also writing a method to
+ *    print out anything you duplicate (type more than once).
+ *  21/25
+ */
 public class SwallowedaFly {
 
 	public static void main(String[] args) {
